@@ -1,0 +1,6 @@
+@ConquerorsBladeDynastyManagementSystem_HostAddress = http://localhost:5278
+
+GET {{ConquerorsBladeDynastyManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
